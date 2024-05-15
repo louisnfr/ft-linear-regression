@@ -1,1 +1,1 @@
-# ft_linear_regression
+# ft-linear-regression
