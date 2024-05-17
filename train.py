@@ -12,7 +12,6 @@ for line in lines[1:]:
     yPoints.append(int(y))
 
 plt.plot(xPoints, yPoints, "o")
-plt.plot(xPoints, yPoints)
 plt.xlabel(lines[0].split(",")[0])
 plt.ylabel(lines[0].split(",")[1])
 plt.show()
